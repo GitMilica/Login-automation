@@ -1,5 +1,4 @@
 # Login System Testing
--making changes
 ## Technologies
 - Java
 - Selenium
