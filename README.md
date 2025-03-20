@@ -1,8 +1,8 @@
 # Login System Testing
 -making changes
 ## Technologies
--Java
--Selenium
+- Java
+- Selenium
 - JUnit
 - Allure
 - Logger
